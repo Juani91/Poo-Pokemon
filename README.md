@@ -18,7 +18,3 @@ Este trabajo consta de un juego de Pokémon utilizando POO en Python. Con esta a
 - **Ninotti Cristian Elio** - Legajo: 53350
 - **Poli Veliz Francisco** - Legajo: 53393
 - **Zucco Juan Ignacio** - Legajo: 53524
-
-
-## Link del repositorio
-https://github.com/CristianNinotti/Poo-Pokemon
